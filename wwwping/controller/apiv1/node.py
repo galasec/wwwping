@@ -1,3 +1,4 @@
+from wwwping.model import Node
 from wwwping.util import jsonify
 
 
